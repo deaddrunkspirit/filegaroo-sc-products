@@ -1,6 +1,6 @@
 ## Smart contract for Selling Products feature
 
-Highload smartcontract for transactions
+### Highload smartcontract for transactions
 
 User send money to smart contract and send api request to validate transaction.
 
