@@ -1,4 +1,4 @@
-## Smart contract for Selling Products feature
+# Smart contract for Selling Products in Filegaroo
 
 ### Highload smartcontract for transactions
 
