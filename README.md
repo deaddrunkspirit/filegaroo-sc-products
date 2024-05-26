@@ -1,6 +1,6 @@
 # Smart contract for Selling Products in Filegaroo
 
-### Highload smartcontract for transactions
+## Highload smartcontract for transactions
 
 User send money to smart contract and send api request to validate transaction.
 
@@ -11,7 +11,6 @@ Smart contract factors:
 After all factors met, the transaction is proccessed and money sent to user
 
 Then SC service that listens to successful transactions notifies API that transaction is successful and sends message with product to customer
-
 
 
 Actors involved:
