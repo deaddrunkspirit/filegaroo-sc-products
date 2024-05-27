@@ -10,7 +10,7 @@ Smart contract factors:
 
 After all factors met, the transaction is proccessed and money sent to user
 
-Then SC service that listens to successful transactions notifies API that transaction is successful and sends message with product to customer
+Then SC service that listens to successful transactions notifies API that transaction is successful and sends message with product to customer.
 
 
 Actors involved:
