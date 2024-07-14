@@ -1,3 +1,5 @@
+DEPRECATED
+
 # Smart contract for Selling Products in Filegaroo
 
 ## Highload smartcontract for transactions
