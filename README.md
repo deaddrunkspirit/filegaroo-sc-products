@@ -1,4 +1,4 @@
-DEPRECATED
+DEPRECATED due to high cost and inefficiency
 
 # Smart contract for Deals in Filegaroo
 
@@ -13,7 +13,6 @@ Smart contract factors:
 After all factors met, the transaction is proccessed and money sent to user
 
 Then SC service that listens to successful transactions notifies API that transaction is successful and sends message with product to customer.
-
 
 Actors involved:
 1. Smart Contract
